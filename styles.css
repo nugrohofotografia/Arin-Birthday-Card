@@ -73,8 +73,8 @@ h1, h2, h3, h4, p {
     background-size: auto;
 }
 
-#gift-img-hot:hover {
-    background-image: url("images/hot.gif");
+#gift-img-friends-happy:hover {
+    background-image: url("images/friends-friends-tv\ happy.gif");
 }
 
 #gift-img-genius:hover {
