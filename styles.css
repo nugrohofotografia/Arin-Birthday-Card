@@ -77,24 +77,16 @@ h1, h2, h3, h4, p {
     background-image: url("images/friends-friends-tv\ happy.gif");
 }
 
-#gift-img-genius:hover {
-    background-image: url("images/genius.gif");
+#gift-img-first-birthday:hover {
+    background-image: url("images/FB_IMG_1562387283642.jpg");
+    background-size: cover;
 }
 
-#gift-img-badass:hover {
-    background-image: url("images/badass.gif");
+#gift-img-with-dad:hover {
+    background-image: url("images/FB_IMG_1550015752746.jpg");
 }
 
-/*
-Challenge:
-Create the "cheers" GIFt section.
-
-Note: this GIFt should have a height of 200px. 
-Select the #gift-img-cheers id and override 
-the height that the element got from the 
-.gift-img class.
-
-Text: 
-This one's for you, my friend 🥂
-*/
+p {
+    font-size: xx-large;
+}
 
