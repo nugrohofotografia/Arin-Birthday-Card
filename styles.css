@@ -70,11 +70,11 @@ h1, h2, h3, h4, p {
 
 #gift-img-happy:hover {
     background-image: url("images/tkthao219-bubududu.gif");
-    background-size: auto;
+    background-size: cover;
 }
 
-#gift-img-friends-happy:hover {
-    background-image: url("images/friends-friends-tv\ happy.gif");
+#gift-img-smile-flower:hover {
+    background-image: url("images/friends-friends-tv happy.gif");
 }
 
 #gift-img-first-birthday:hover {
